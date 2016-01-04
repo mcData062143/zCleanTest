@@ -1,0 +1,19 @@
+---
+title: "Input zCleanTest"
+author: "mcData062143"
+date: "January 4, 2016"
+output: html_document
+---
+
+Do I know What I'm doing????? 
+
+##Title
+
+I doubt it
+
+* item 1
+* item 2
+
+[link to yahoo](www.yahoo.com)
+
+Input as second markdown for githup practice
